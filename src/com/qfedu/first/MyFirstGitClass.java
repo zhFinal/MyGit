@@ -4,5 +4,6 @@ public class MyFirstGitClass {
     public static void main(String[] args) {
         System.out.println("main方法");
         System.out.println("大幅度修改");
+        System.out.println("小幅度修改");
     }
 }
